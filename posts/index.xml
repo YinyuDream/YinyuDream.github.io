@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - DPY&#39;s Blog</title>
+        <link>https://YinyuDream.github.io/posts/</link>
+        <description>所有文章 | DPY&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 25 Aug 2020 12:10:32 &#43;0800</lastBuildDate><atom:link href="https://YinyuDream.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>题解 P4074 【[WC2013]糖果公园】</title>
+    <link>https://YinyuDream.github.io/luogu-p4074/</link>
+    <pubDate>Tue, 25 Aug 2020 12:10:32 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>https://YinyuDream.github.io/luogu-p4074/</guid>
+    <description><![CDATA[树上待修改莫队]]></description>
+</item></channel>
+</rss>
