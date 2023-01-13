@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>贪心 - 标签 - DPY&#39;s Blog</title>
+        <link>http://example.org/tags/%E8%B4%AA%E5%BF%83/</link>
+        <description>贪心 - 标签 - DPY&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 26 Sep 2020 19:43:35 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/%E8%B4%AA%E5%BF%83/" rel="self" type="application/rss+xml" /><item>
+    <title>题解 SP1553 【BACKUP - Backup Files】</title>
+    <link>http://example.org/luogu-sp1553/</link>
+    <pubDate>Sat, 26 Sep 2020 19:43:35 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-sp1553/</guid>
+    <description><![CDATA[反悔贪心]]></description>
+</item></channel>
+</rss>

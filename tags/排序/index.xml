@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>排序 - 标签 - DPY&#39;s Blog</title>
+        <link>http://example.org/tags/%E6%8E%92%E5%BA%8F/</link>
+        <description>排序 - 标签 - DPY&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 26 Sep 2020 19:43:35 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/%E6%8E%92%E5%BA%8F/" rel="self" type="application/rss+xml" /><item>
+    <title>题解 P3963 【[TJOI2013] 奖学金】</title>
+    <link>http://example.org/luogu-p3963/</link>
+    <pubDate>Sat, 26 Sep 2020 19:43:35 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p3963/</guid>
+    <description><![CDATA[排序，枚举与堆]]></description>
+</item></channel>
+</rss>

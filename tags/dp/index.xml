@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>DP - 标签 - DPY&#39;s Blog</title>
+        <link>http://example.org/tags/dp/</link>
+        <description>DP - 标签 - DPY&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 31 Oct 2020 23:00:46 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/dp/" rel="self" type="application/rss+xml" /><item>
+    <title>题解 P6154 【游走】</title>
+    <link>http://example.org/luogu-p6154/</link>
+    <pubDate>Sat, 31 Oct 2020 23:00:46 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p6154/</guid>
+    <description><![CDATA[DAG上的概率DP]]></description>
+</item></channel>
+</rss>

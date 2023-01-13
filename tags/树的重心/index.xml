@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>树的重心 - 标签 - DPY&#39;s Blog</title>
+        <link>http://example.org/tags/%E6%A0%91%E7%9A%84%E9%87%8D%E5%BF%83/</link>
+        <description>树的重心 - 标签 - DPY&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 26 Sep 2020 21:02:45 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/%E6%A0%91%E7%9A%84%E9%87%8D%E5%BF%83/" rel="self" type="application/rss+xml" /><item>
+    <title>题解 P2726 【[SHOI2005]树的双中心】</title>
+    <link>http://example.org/luogu-p2726/</link>
+    <pubDate>Sat, 26 Sep 2020 21:02:45 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p2726/</guid>
+    <description><![CDATA[树的重心性质应用]]></description>
+</item></channel>
+</rss>

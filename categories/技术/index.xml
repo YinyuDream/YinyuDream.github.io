@@ -1,14 +1,77 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>技术 - 分类 - DPY&#39;s Blog</title>
-        <link>https://YinyuDream.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
+        <link>http://example.org/categories/%E6%8A%80%E6%9C%AF/</link>
         <description>技术 - 分类 - DPY&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 25 Aug 2020 12:10:32 &#43;0800</lastBuildDate><atom:link href="https://YinyuDream.github.io/categories/%E6%8A%80%E6%9C%AF/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 31 Oct 2020 23:00:46 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/%E6%8A%80%E6%9C%AF/" rel="self" type="application/rss+xml" /><item>
+    <title>题解 P6154 【游走】</title>
+    <link>http://example.org/luogu-p6154/</link>
+    <pubDate>Sat, 31 Oct 2020 23:00:46 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p6154/</guid>
+    <description><![CDATA[DAG上的概率DP]]></description>
+</item><item>
+    <title>题解 P3033 【[USACO11NOV]Cow Steeplechase G】</title>
+    <link>http://example.org/luogu-p3033/</link>
+    <pubDate>Mon, 12 Oct 2020 22:19:18 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p3033/</guid>
+    <description><![CDATA[二分图建模]]></description>
+</item><item>
+    <title>题解 P6011 【[SCOI2006]动态最值】</title>
+    <link>http://example.org/luogu-p6011/</link>
+    <pubDate>Thu, 08 Oct 2020 15:46:50 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p6011/</guid>
+    <description><![CDATA[线段树]]></description>
+</item><item>
+    <title>题解 P2726 【[SHOI2005]树的双中心】</title>
+    <link>http://example.org/luogu-p2726/</link>
+    <pubDate>Sat, 26 Sep 2020 21:02:45 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p2726/</guid>
+    <description><![CDATA[树的重心性质应用]]></description>
+</item><item>
+    <title>题解 P3500 【[POI2010]TES-Intelligence Test】</title>
+    <link>http://example.org/luogu-p3500/</link>
+    <pubDate>Sat, 26 Sep 2020 20:41:54 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p3500/</guid>
+    <description><![CDATA[二分查找]]></description>
+</item><item>
+    <title>题解 CF61E 【Enemy is weak】</title>
+    <link>http://example.org/luogu-cf61e/</link>
+    <pubDate>Sat, 26 Sep 2020 20:14:00 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-cf61e/</guid>
+    <description><![CDATA[树状数组]]></description>
+</item><item>
+    <title>题解 P4735 【最大异或和】</title>
+    <link>http://example.org/luogu-p4735/</link>
+    <pubDate>Sat, 26 Sep 2020 19:53:40 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p4735/</guid>
+    <description><![CDATA[可持久化01trie]]></description>
+</item><item>
+    <title>题解 P3963 【[TJOI2013] 奖学金】</title>
+    <link>http://example.org/luogu-p3963/</link>
+    <pubDate>Sat, 26 Sep 2020 19:43:35 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-p3963/</guid>
+    <description><![CDATA[排序，枚举与堆]]></description>
+</item><item>
+    <title>题解 SP1553 【BACKUP - Backup Files】</title>
+    <link>http://example.org/luogu-sp1553/</link>
+    <pubDate>Sat, 26 Sep 2020 19:43:35 &#43;0800</pubDate><author>
+                    <name>YinyuDream</name>
+                </author><guid>http://example.org/luogu-sp1553/</guid>
+    <description><![CDATA[反悔贪心]]></description>
+</item><item>
     <title>题解 P4074 【[WC2013]糖果公园】</title>
-    <link>https://YinyuDream.github.io/luogu-p4074/</link>
+    <link>http://example.org/luogu-p4074/</link>
     <pubDate>Tue, 25 Aug 2020 12:10:32 &#43;0800</pubDate><author>
                     <name>YinyuDream</name>
-                </author><guid>https://YinyuDream.github.io/luogu-p4074/</guid>
+                </author><guid>http://example.org/luogu-p4074/</guid>
     <description><![CDATA[树上待修改莫队]]></description>
 </item></channel>
 </rss>
